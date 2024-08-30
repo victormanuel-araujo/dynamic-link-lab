@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "ZC4EFK9NBM.br.com.segware.kiper.mobile",
+        "paths": ["*"]
+      },
+      {
+        "appID": "ZC4EFK9NBM.br.com.portergroup.porter",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
